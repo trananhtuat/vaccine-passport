@@ -1,6 +1,6 @@
 # vaccine-passport
 
-    ReactJS Game Landing Page | ReactJS SASS ViteJS
+    Build vaccine passport with MERN stack
 
 # Video tutorial
 
